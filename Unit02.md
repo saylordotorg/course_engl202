@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Prose and Polemical Writing** <span id="2"></span> 
 *In this unit, we will acquaint ourselves with some of the most
 noteworthy prose and polemical works of Renaissance-era England,

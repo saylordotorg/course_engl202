@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Cultural and Historical Contexts** <span id="1"></span> 
 *Let’s begin this course by taking stock of the various cultural and
 historical developments that would shape and give rise to the literature

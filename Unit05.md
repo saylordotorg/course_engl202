@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's "ENGL202 Final Exam"**
     Link: The Saylor Foundation's ["ENGL202 Final

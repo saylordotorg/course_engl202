@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Poetry** <span id="3"></span> 
 *We will now turn to poetic traditions in Renaissance England, examining
 various forms and modes that were particularly popular during the

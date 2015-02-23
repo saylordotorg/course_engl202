@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL202: Cultural and Literary Expression in the English Renaissance"
 ------------------------------------------------------------------------------------------
 

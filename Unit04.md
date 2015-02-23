@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL202: Cultural and Literary Expression in the English Renaissance"
+course_description: "An exploration of the major works of English literature and culture during the English Renaissance period (1600-1750), with particular attention to the socio-historical and literary contexts of the period."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Elizabethan Drama** <span id="4"></span> 
 *Something electric happened to drama in Elizabethan England; the plays
 from this era remain one of the richest, most widely-adored, and most
