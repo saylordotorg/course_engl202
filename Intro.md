@@ -55,3 +55,4 @@ computer.
 - [Unit 3](https://legacy.saylor.org/engl202/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl202/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl202/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL202/ENGL202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL202/ENGL202-FinalExam-Answers.html)
