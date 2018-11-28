@@ -39,7 +39,7 @@ works to the Renaissance period more generally.*
 
 -   **Reading: Sir Thomas Wyatt’s “Whoso list to hunt”**
     Link: Sir Thomas Wyatt’s [“Whoso list to
-    hunt”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL202-3.1.1-Whosolist.pdf)
+    hunt”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ENGL202-3.1.1-Whosolist.pdf)
     (PDF)  
      Also available in [Google
     Books](http://books.google.com/books?id=WduHxc6iYp4C&pg=PA26&dq=whoso+list+to+hunt&hl=en&ei=beI0TNvLEMOB8gaav8mqAw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC8Q6AEwAQ#v=onepage&q=whoso%20list%20to%20hunt&f=false)
